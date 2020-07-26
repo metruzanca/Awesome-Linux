@@ -1,6 +1,6 @@
-# Awesome-Linux-Webdev
-A currated List of Linux apps
-# Functional
+# Awesome-Linux
+My personal list of Linux apps and tools
+# FunctionalMetru-
 
 ## Programming Languages
 
