@@ -55,3 +55,6 @@ Dynamic Wallpaper club: [Outlet](https://dynamicwallpaper.club/wallpaper/ma10m2a
 [CAVA audio visualizer](https://github.com/karlstav/cava)
 
 [Nice rice](https://www.reddit.com/r/unixporn/comments/cz9kkh/gnome_neon_city_my_first_rice/)
+
+
+mlocate
